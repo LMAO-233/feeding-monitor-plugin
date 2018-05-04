@@ -18,7 +18,7 @@ Arduino 部分：
 
 
 
-3D printer feeding moniter plugin.
+# 3D printer feeding moniter plugin.
 
 A 3D printer feeding moniter plugin for Repetier-Host, writed in C#, using Arduino and rotary encoder to check feeding status.
 Buliding requirements:
